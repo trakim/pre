@@ -1,4 +1,5 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
-title = 'tra_pre_cypress'
-theme = "hugo-theme-learn"
+title = 'My New Hugo Site'
+theme = 'hugo-theme-learn'
+
