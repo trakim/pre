@@ -2,6 +2,3 @@ baseURL = 'https://trakim.github.io/pre/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'hugo-theme-learn'
-
-[outputs]
-home = [ "HTML", "RSS", "JSON"]
