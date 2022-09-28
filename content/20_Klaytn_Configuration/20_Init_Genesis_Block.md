@@ -7,13 +7,13 @@ draft: false
 ---
 
 {{< line_break >}}
-### 4. Copy genesis.json under DATA directory
+### 1. Copy genesis.json under DATA directory
 
 > *example : /var/kcnd/data/genesis.json*
 
 {{< line_break >}}
 
-### 5. Init Genesis block
+### 2. Init Genesis block
 ##### 1) CN configuration
 {{< highlight html >}}
 $ kcn --networkid 7207 init --datadir /var/kcnd/data genesis.json
@@ -27,7 +27,7 @@ $ kpn --networkid 7207 init --datadir /var/klaytn/kpnd/data genesis.json
 
 {{< line_break >}}
 
-### 6. (ONLY PN) Create static-nodes.json and copy it under DATA directory
+### 3. (ONLY PN) Create static-nodes.json and copy it under DATA directory
 > *example : /var/kcnd/data/nodekey*
 
 ```vim

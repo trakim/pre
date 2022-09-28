@@ -7,7 +7,7 @@ draft: false
 ---
 
 {{< line_break >}}
-### 2. Enable monitoring in kcnd/kpnd
+### 1. Enable monitoring in kcnd/kpnd
 Check the if below two options enabled
 
 >*`/etc/kcnd/conf/kcnd.conf`*
@@ -27,7 +27,7 @@ tcp        0      0 :::61001        :::*       LISTEN      8989/kcn
 {{< /highlight >}}
 
 {{< line_break >}}
-### 3. Configure Telegraf service
+### 2. Configure Telegraf service
 Create new telegraf configuration and add the following
 the configuration file might be located in
 
