@@ -8,7 +8,7 @@ draft = false
 +++
 
 
-![Klaytn Logo](/images/Logo-1.png)
+![Klaytn Logo](images/Logo-1.png)
 # CCO Onboarding - Pre-cypress
-   
+
 This online instruction let you join Klaytn Pre-cypress network.    
