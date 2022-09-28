@@ -7,7 +7,7 @@ pre = "<b>5. </b>"
 +++
 
 
-![Klaytn Baobab_Logo](/images/Logo-baobab.png)
+![Klaytn_Logo](pre/images/Logo-1.png)
 ### Congratulations! Now, you are playing in the Pre-Cypress network.
 
 
