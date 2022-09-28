@@ -1,4 +1,4 @@
-baseURL = '/pre'
+baseURL = '/'
 languageCode = 'en-us'
 title = 'Klaytn CCO Onboarding - Pre-Cypress'
 
@@ -54,7 +54,7 @@ titleSeparator = "-"
 
 [Lanugages]
 [Lanugages.en]
-landingPageURL = "/"
+landingPageURL = "/pre"
 landingPageName = "<i class='fas fa-home'></i>Home"
 
 [[menu.shortcuts]]
