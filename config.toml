@@ -1,4 +1,4 @@
-baseURL = "https://trakim.github.io/pre/"
+baseURL = "/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "hugo-theme-learn"
