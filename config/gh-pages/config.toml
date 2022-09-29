@@ -55,7 +55,7 @@ titleSeparator = "-"
 
 [Lanugages]
 [Lanugages.en]
-landingPageURL = "/"
+landingPageURL = "/pre"
 landingPageName = "<i class='fas fa-home'></i>Home"
 
 [[menu.shortcuts]]
