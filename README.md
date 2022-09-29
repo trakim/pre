@@ -1,6 +1,6 @@
-# Klaytn Workshop - Baobab Setup
+# Klaytn Workshop - Pre Cypress Setup
 
-![Klaytn Docs](images/klaytn.png)
+![Klaytn Docs](https://raw.githubusercontent.com/trakim/pre/main/static/images/klaytn.png)
 
 ## Index
   - [Overview](#overview) 
