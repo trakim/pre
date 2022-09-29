@@ -24,7 +24,7 @@ draft: false
 * We will share CN node IPs for Pre-cypress configuration separately.
 {{< line_break >}}
 {{< line_break >}}
-![network](/images/klaytn-2.png)
+![network](https://raw.githubusercontent.com/trakim/pre/main/static/images/klaytn-2.png)
 
 {{< line_break >}}
 {{< line_break >}}
