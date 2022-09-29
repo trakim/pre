@@ -8,7 +8,7 @@ draft = false
 +++
 
 
-[![Klaytn Logo](https://github.com/trakim/pre/blob/main/static/images/Logo-1.png)]
+![Klaytn Logo](https://raw.githubusercontent.com/trakim/pre/main/static/images/Logo-1.png)
 # CCO Onboarding - Pre-cypress
 
 This online instruction let you join Klaytn Pre-cypress network.    
