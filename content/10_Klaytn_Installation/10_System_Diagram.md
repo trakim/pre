@@ -8,7 +8,7 @@ draft: false
 
 {{< line_break >}}
 
->CCN Diagram 
+### 1. CCN Diagram 
 >##### CCN consists of one CN node and two PN nodes.
 {{< line_break >}}
 ![CCN](https://raw.githubusercontent.com/trakim/pre/main/static/images/klaytn1.png)
@@ -16,7 +16,7 @@ draft: false
 {{< line_break >}}
 {{< line_break >}}
 
->Network architecture
+### 2. Network architecture
 >##### Full mesh connection should be made between CNs.
 >##### So, You need to configure the firewall to allow ingress between nodes.
 
