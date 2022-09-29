@@ -11,7 +11,7 @@ draft: false
 >CCN Diagram 
 >##### CCN consists of one CN node and two PN nodes.
 {{< line_break >}}
-![CCN](https://github.com/trakim/pre/blob/main/static/images/klaytn1.png)
+![CCN](https://raw.githubusercontent.com/trakim/pre/main/static/images/klaytn1.png)
 
 {{< line_break >}}
 {{< line_break >}}
@@ -24,7 +24,7 @@ draft: false
 * We will share CN node IPs for Pre-cypress configuration separately.
 {{< line_break >}}
 {{< line_break >}}
-![network](https://github.com/trakim/pre/blob/main/static/images/klaytn-2.png)
+![network](https://raw.githubusercontent.com/trakim/pre/main/static/images/klaytn-2.png)
 
 {{< line_break >}}
 {{< line_break >}}
