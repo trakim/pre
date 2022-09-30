@@ -2,6 +2,9 @@ baseURL = '/pre'
 languageCode = 'en-us'
 title = 'Klaytn CCO Onboarding - Pre-Cypress'
 
+uglyurls = true
+canonifyURLs = true
+
 # Change the default theme to be use when building the site with Hugo
 theme = "hugo-theme-learn"
 
