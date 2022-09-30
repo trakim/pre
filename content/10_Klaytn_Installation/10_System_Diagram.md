@@ -11,7 +11,7 @@ draft: false
 ### 1. CCN Diagram 
 >##### CCN consists of one CN node and two PN nodes.
 {{< line_break >}}
-![CCN](/images/klaytn-1.png)
+![CCN](/static/images/klaytn-1.png)
 
 {{< line_break >}}
 {{< line_break >}}
