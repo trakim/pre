@@ -61,7 +61,7 @@ landingPageName = "<i class='fas fa-home'></i>Home"
 [[menu.shortcuts]]
 name = "<i class='fab fa-github'></i> Workshop Github repo"
 identifier = "ds"
-url = "https://github.com/klaytn/klaytn-baobab-setup-workshop"
+url = "https://github.com/trakim/pre"
 weight = 10
 
 [[menu.shortcuts]]
